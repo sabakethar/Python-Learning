@@ -1,0 +1,26 @@
+Assignment - 1:
+--------------
+write a function to receive a string and extract a substring given
+an origin and an end:
+
+          subst(str,origin,end):
+                ....
+                return substr
+
+
+Assignment - 2:
+--------------
+write a script to interactively take a string and indices for extracting 
+substring from the given string. If indices are ok (i.e. orig is < end),
+call the above function to process the request and print the answer, else
+print an error message.
+
+The program should run interactively till user enters None,0,0
+
+Assignment - 3:
+---------------         
+
+       
+
+
+

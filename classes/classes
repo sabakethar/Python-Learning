@@ -1,0 +1,23 @@
+
+    inbuilt types     variable                      operations
+
+    int               a=10                              add, sub, div ..,  
+  
+    lists             lst[0]=?                          index, append
+
+    user defined type
+
+    CLASS             OBJECT                          METHODS  
+
+    Person            p                               talk, name, age
+
+    class Person      p.name="ASHOK", p.age=49 
+    {
+        char name[10]
+        int age=0
+
+        int talk()    p.talk()  
+        {
+            printf("speak")
+        }
+    }
